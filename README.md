@@ -31,12 +31,13 @@ Yeonjun Bang, Yeejin Lee, Byeongkeun Kang
 ### Citation
 If you use this code/dataset for your research, please consider citing:
 ```
-@misc{bang2021imagetoimage,
-      title={Image-to-Image Translation-based Data Augmentation for Robust EV Charging Inlet Detection}, 
-      author={Yeonjun Bang and Yeejin Lee and Byeongkeun Kang},
-      year={2021},
-      eprint={2112.05290},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
+@ARTICLE{9705566,
+  author={Bang, Yeonjun and Lee, Yeejin and Kang, Byeongkeun},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={Image-to-Image Translation-Based Data Augmentation for Robust EV Charging Inlet Detection}, 
+  year={2022},
+  volume={7},
+  number={2},
+  pages={3726-3733},
+  doi={10.1109/LRA.2022.3146939}}
 ```
