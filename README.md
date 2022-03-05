@@ -6,6 +6,9 @@ Yeonjun Bang, Yeejin Lee, Byeongkeun Kang
 
 2022
 
+### Code
+
+- Please see https://github.com/HappyBang-ai/EnTGAN 
 
 ### Dataset
 
